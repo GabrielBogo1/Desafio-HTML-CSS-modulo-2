@@ -130,7 +130,7 @@ main .imgpq
 main>article>h1
 {   
     color: var(--cor5);
-    font-family: var(--fonte-android);
+    font-family: 'idroid';
 }
 
 main h2
